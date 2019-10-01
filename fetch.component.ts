@@ -7,7 +7,6 @@ import 'rxjs/add/operator/map';
   styleUrls: ['./fetch.component.css']
 })
 export class FetchComponent  {
-  //initializing variables
   public id="";
   public name ="";
   public ph="";
