@@ -7,6 +7,7 @@ import 'rxjs/add/operator/map';
   styleUrls: ['./add.component.css']
 })
 export class AddComponent  {
+//initializing variables
 public id="";
 public name ="";
 public ph="";
