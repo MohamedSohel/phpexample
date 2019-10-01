@@ -1,7 +1,7 @@
 <?php 
 	namespace opr1;
 	
-	//include 'conn.php';
+	//include 'conn.php' which gives the connection to the db.
 	require_once('conn.php');
 			//$data= json_decode(file_get_contents("php://input"));
 	class Connection {
